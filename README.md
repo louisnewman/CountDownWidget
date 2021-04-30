@@ -3,14 +3,14 @@
 
 使用方法：在需要放置的child下
 
-CountDownWidget(
-  onTap: (){
+    CountDownWidget(
+     onTap: (){
   
     //开启倒计时
     return true;
     
     //不开启
     //return false;
-  },
-),
+    },
+    ),
 
